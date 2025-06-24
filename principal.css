@@ -1,10 +1,16 @@
-h1	{
-font-family:	sans-serif;
+h1{
+font-family:Arial, Helvetica, sans-serif;
+color: darkgreen;
 }
-li	{
-font-family:	monospace;
+li{
+font-family:Arial, Helvetica, sans-serif;
 }
 body{
     width: 50%;
     margin: auto;
+    color: #fff;
+    background-color: #000;
+}
+a{
+    color: red;
 }
