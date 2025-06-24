@@ -7,4 +7,9 @@ font-family:	monospace;
 body{
     width: 50%;
     margin: auto;
+    color: yellow;
+    background-color: black;
+}
+a{
+color:red;
 }
