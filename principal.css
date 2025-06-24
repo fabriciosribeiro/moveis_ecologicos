@@ -7,4 +7,6 @@ font-family:	monospace;
 body{
     width: 50%;
     margin: auto;
+    color:#fff;
+    background-color: black;
 }
